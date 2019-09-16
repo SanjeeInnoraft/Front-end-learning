@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	width: 1170px;
+	margin: 10px auto;
+}
+
+.div_top{
+	height: 100px;
+	width: 100%;
+	background-color: #ff4da6;
+	float: left;
+}
+
+
+#center{
+	width:100%;
+	float: left;
+	margin: 10px 0;
+}
+
+.div_left{
+	width: 740px;
+	height: 400px;
+	background-color: #ff037e;
+	float: left;
+}
+.div_right{
+	width: 420px;
+	height: 400px;
+	margin-left: 10px;
+	background-color: #ce0468;
+	float: left;
+}
+
+.div_bottom{
+	height: 100px;
+	width: 100%;
+	background-color: #802755;
+	float: left;
+}
